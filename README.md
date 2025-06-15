@@ -8,7 +8,7 @@ Electron doesn't mean its performance is bad._
 
 #### How to install Zinc
 
-Option 1: Using the [Zinc Installer](https://github.com/lockieluke/ZincInstaller)(Currently developing)
+Option 1: Using the [Zinc Installer](https://github.com/snoweagle811/ZincInstaller)(Currently developing)
 
 Option 2: Downloading Zinc from releases page and extract
 
@@ -26,8 +26,8 @@ Head to the wiki page and learn more about it!
 
 #### Other modules
 
-[Windows GUI Installer for Zinc](https://github.com/lockieluke/ZincInstaller)
+[Windows GUI Installer for Zinc](https://github.com/snoweagle811/ZincInstaller)
 
-[Zinc's Website](https://github.com/lockieluke/ZincWebsite)
+[Zinc's Website](https://github.com/snoweagle811/ZincWebsite)
 
-[Zinc Development Scripts](https://github.com/lockieluke/ZincScripts)
+[Zinc Development Scripts](https://github.com/snoweagle811/ZincScripts)
